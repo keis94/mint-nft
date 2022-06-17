@@ -1,0 +1,26 @@
+{
+    "name": "Pict Icon",
+    "description": "Pict Icon",
+    "image": "https://www.arweave.run/9Ip80K5pedBqP6rp7FDlP62upth-Mu-utRZT2Jb8g0s",
+    "animation_url": "https://www.arweave.run/9Ip80K5pedBqP6rp7FDlP62upth-Mu-utRZT2Jb8g0s?ext=glb",
+    "external_url": "https://example.com",
+    "attributes": [
+        {
+            "trait_type": "trait1",
+            "value": "value1"
+        },
+        {
+            "trait_type": "trait2",
+            "value": "value2"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "https://www.arweave.run/9Ip80K5pedBqP6rp7FDlP62upth-Mu-utRZT2Jb8g0s?ext=png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image"
+    }
+}
